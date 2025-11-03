@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/backend-tests-python-wlpzxquf:70882285387c491f4b7f721ea81ff8e70d922ca3@sha256:fc3e2f6fa75d55021c68db317aa6e0c7e4e4c12cfde2f25cd43c25e8391ad30e
+        - image: quay.io/chetna14manku_org/backend-tests-python-wlpzxquf:07c0e713a2d00e72d0526734d4c9a7bcc9cd4432@sha256:9a7e2dd394c8d8db1cea79e99c3916335a0af224c70ad178198067a5164dd858
           name: container-image
